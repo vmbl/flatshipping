@@ -1,8 +1,8 @@
 {
-    "name": "git/flatshipping",
+    "name": "vmbl/flatshipping",
     "description": "Magento Plugin for flatshipping developed by Born",
     "type": "magento-module",
-    "homepage": "http://github.groupfmg.com/fmgrepo/git/flatshipping",
+    "homepage": "https://github.com/vmbl/flatshipping/",
     "license": "OSL-3.0",
     "authors": [
         {
