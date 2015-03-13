@@ -1,0 +1,22 @@
+{
+    "name": "git/flatshipping",
+    "description": "Magento Plugin for flatshipping developed by Born",
+    "type": "magento-module",
+    "homepage": "http://github.groupfmg.com/fmgrepo/git/flatshipping",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Born",
+            "email": "support@borngroup.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "2.*"
+    },
+    "extra":{
+	"map":[
+		["app/etc/modules/Born_Flatshipping.xml", "app/etc/modules/Born_Flatshipping.xml"],
+		["app/code/local/Born/Flatshipping", "app/code/local/Born/Flatshipping"]
+	]
+    }
+}
