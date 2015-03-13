@@ -2,7 +2,7 @@
     "name": "git/flatshipping",
     "description": "Magento Plugin for flatshipping developed by Born",
     "type": "magento-module",
-    "homepage": "https://github.com/adyenpayments/magento",
+    "homepage": "https://github.com/vmbl/flatshipping/",
     "license": "OSL-3.0",
     "authors": [
         {
