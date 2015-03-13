@@ -13,7 +13,7 @@
 				<model>flatship/carrier_flatshipping</model>
 				<name>Flat ShippingRates</name>
 				<title>Flat ShippingRates</title>
-				<specificerrmsg>Sorry,Flat Shipping is currently unavailable...</specificerrmsg>
+				<specificerrmsg>Sorry,Flat Shipping is currently unavailable</specificerrmsg>
 				<handling_type>F</handling_type>
 			</flatshipping>
 		</carriers>
